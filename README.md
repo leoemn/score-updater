@@ -1,4 +1,3 @@
-# score-updater
 # Red vs. Yellow Scorekeeping
 
 This is a simple web-based scorekeeping where two teams, Red and Yellow, compete to earn points. You can click the respective buttons to add points to each team's score.
